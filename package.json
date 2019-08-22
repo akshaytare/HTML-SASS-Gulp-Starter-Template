@@ -1,12 +1,19 @@
 {
-  "name": "sass_starter",
+  "name": "html-css-gulp-starter-template-boilerplate",
   "version": "1.0.0",
   "description": "HTML-SASS-GULP-BrowserSync-StarterTemplate",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "keywords": [],
+  "keywords": [
+     "HTML-SASS",
+    "SASS-GULP",
+    "SASS-BrowserSync",
+    "SASS-Starter-template",
+    "Gulp-Starter",
+    "HTML-gulp-postcss-autoprefixer-cssnano-template"
+],
   "author": "Akshay Tare",
   "license": "ISC",
   "devDependencies": {
@@ -17,5 +24,13 @@
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaytare/HTML-SASS-Gulp-Starter-Template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akshaytare/HTML-SASS-Gulp-Starter-Template/issues"
+  },
+  "homepage": "https://github.com/akshaytare/HTML-SASS-Gulp-Starter-Template#readme"
 }
